@@ -1,7 +1,3 @@
-Sure! Here’s a sample README file that you can use for your COVID-19 image classification project:
-
----
-
 # COVID-19 Image Classification
 
 This project implements a convolutional neural network (CNN) to classify chest X-ray images as either COVID-19 positive or negative. It uses TensorFlow and Keras for model training and prediction.
