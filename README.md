@@ -76,4 +76,4 @@ The CNN model architecture is as follows:
 
 ## Results
 
-The model is evaluated on a test dataset, and the accuracy and loss metrics are displayed. The prediction threshold is set at 0.6890, where values greater than this indicate a negative result.
+The model is evaluated on a test dataset, and the accuracy and loss metrics are displayed. 
